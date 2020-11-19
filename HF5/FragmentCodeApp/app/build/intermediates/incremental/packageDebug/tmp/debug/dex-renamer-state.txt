@@ -1,0 +1,4 @@
+#Thu Nov 19 17:07:57 EET 2020
+base.0=E\:\\android programozas\\lab6\\Android_Lab6\\FragmentCodeApp\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

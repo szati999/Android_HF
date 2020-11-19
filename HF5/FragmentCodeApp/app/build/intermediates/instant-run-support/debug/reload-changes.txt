@@ -1,0 +1,3 @@
+CHANGED,D:\EGYETEM\OKTATAS\Android programozas\Laborok\L9\L9\FragmentCodeApp1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,D:\EGYETEM\OKTATAS\Android programozas\Laborok\L9\L9\FragmentCodeApp1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\androidunleashed\fragmentcodeapp\Fragment1Activity$override.class
+CHANGED,D:\EGYETEM\OKTATAS\Android programozas\Laborok\L9\L9\FragmentCodeApp1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\androidunleashed\fragmentcodeapp\Fragment1Activity$1$override.class

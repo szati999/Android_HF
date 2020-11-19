@@ -1,0 +1,67 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\android programozas\lab6\Android_Lab6\FragmentCodeApp\app\src\main\AndroidManifest.xml:1:1-24:12
+INJECTED from E:\android programozas\lab6\Android_Lab6\FragmentCodeApp\app\src\main\AndroidManifest.xml:1:1-24:12
+INJECTED from E:\android programozas\lab6\Android_Lab6\FragmentCodeApp\app\src\main\AndroidManifest.xml:1:1-24:12
+INJECTED from E:\android programozas\lab6\Android_Lab6\FragmentCodeApp\app\src\main\AndroidManifest.xml:1:1-24:12
+INJECTED from E:\android programozas\lab6\Android_Lab6\FragmentCodeApp\app\src\main\AndroidManifest.xml:1:1-24:12
+INJECTED from E:\android programozas\lab6\Android_Lab6\FragmentCodeApp\app\src\main\AndroidManifest.xml:1:1-24:12
+INJECTED from E:\android programozas\lab6\Android_Lab6\FragmentCodeApp\app\src\main\AndroidManifest.xml:1:1-24:12
+	package
+		ADDED from E:\android programozas\lab6\Android_Lab6\FragmentCodeApp\app\src\main\AndroidManifest.xml:2:5-51
+		INJECTED from E:\android programozas\lab6\Android_Lab6\FragmentCodeApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android programozas\lab6\Android_Lab6\FragmentCodeApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\android programozas\lab6\Android_Lab6\FragmentCodeApp\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from E:\android programozas\lab6\Android_Lab6\FragmentCodeApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android programozas\lab6\Android_Lab6\FragmentCodeApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\android programozas\lab6\Android_Lab6\FragmentCodeApp\app\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from E:\android programozas\lab6\Android_Lab6\FragmentCodeApp\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from E:\android programozas\lab6\Android_Lab6\FragmentCodeApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android programozas\lab6\Android_Lab6\FragmentCodeApp\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from E:\android programozas\lab6\Android_Lab6\FragmentCodeApp\app\src\main\AndroidManifest.xml:6:5-47
+INJECTED from E:\android programozas\lab6\Android_Lab6\FragmentCodeApp\app\src\main\AndroidManifest.xml:6:5-47
+INJECTED from E:\android programozas\lab6\Android_Lab6\FragmentCodeApp\app\src\main\AndroidManifest.xml:6:5-47
+INJECTED from E:\android programozas\lab6\Android_Lab6\FragmentCodeApp\app\src\main\AndroidManifest.xml:6:5-47
+INJECTED from E:\android programozas\lab6\Android_Lab6\FragmentCodeApp\app\src\main\AndroidManifest.xml:6:5-47
+	android:targetSdkVersion
+		ADDED from E:\android programozas\lab6\Android_Lab6\FragmentCodeApp\app\src\main\AndroidManifest.xml:6:15-44
+		INJECTED from E:\android programozas\lab6\Android_Lab6\FragmentCodeApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android programozas\lab6\Android_Lab6\FragmentCodeApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\android programozas\lab6\Android_Lab6\FragmentCodeApp\app\src\main\AndroidManifest.xml
+		ADDED from E:\android programozas\lab6\Android_Lab6\FragmentCodeApp\app\src\main\AndroidManifest.xml:6:5-47
+		INJECTED from E:\android programozas\lab6\Android_Lab6\FragmentCodeApp\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\android programozas\lab6\Android_Lab6\FragmentCodeApp\app\src\main\AndroidManifest.xml:8:5-22:19
+	android:label
+		ADDED from E:\android programozas\lab6\Android_Lab6\FragmentCodeApp\app\src\main\AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from E:\android programozas\lab6\Android_Lab6\FragmentCodeApp\app\src\main\AndroidManifest.xml:9:9-45
+	android:theme
+		ADDED from E:\android programozas\lab6\Android_Lab6\FragmentCodeApp\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.androidunleashed.fragmentcodeapp.FragmentCodeAppActivity
+ADDED from E:\android programozas\lab6\Android_Lab6\FragmentCodeApp\app\src\main\AndroidManifest.xml:12:9-20:20
+	android:label
+		ADDED from E:\android programozas\lab6\Android_Lab6\FragmentCodeApp\app\src\main\AndroidManifest.xml:14:13-69
+	android:name
+		ADDED from E:\android programozas\lab6\Android_Lab6\FragmentCodeApp\app\src\main\AndroidManifest.xml:13:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\android programozas\lab6\Android_Lab6\FragmentCodeApp\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from E:\android programozas\lab6\Android_Lab6\FragmentCodeApp\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from E:\android programozas\lab6\Android_Lab6\FragmentCodeApp\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\android programozas\lab6\Android_Lab6\FragmentCodeApp\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from E:\android programozas\lab6\Android_Lab6\FragmentCodeApp\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.androidunleashed.fragmentcodeapp.ShowItemActivity
+ADDED from E:\android programozas\lab6\Android_Lab6\FragmentCodeApp\app\src\main\AndroidManifest.xml:21:13-91
+	android:label
+		ADDED from E:\android programozas\lab6\Android_Lab6\FragmentCodeApp\app\src\main\AndroidManifest.xml:21:56-88
+	android:name
+		ADDED from E:\android programozas\lab6\Android_Lab6\FragmentCodeApp\app\src\main\AndroidManifest.xml:21:23-55

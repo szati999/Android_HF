@@ -1,0 +1,11 @@
+com/androidunleashed/fragmentcodeapp/BuildConfig.java
+ com.androidunleashed.fragmentcodeapp.BuildConfig
+com/androidunleashed/fragmentcodeapp/Fragment2Activity.java
+ com.androidunleashed.fragmentcodeapp.Fragment2Activity
+com/androidunleashed/fragmentcodeapp/ShowItemActivity.java
+ com.androidunleashed.fragmentcodeapp.ShowItemActivity
+com/androidunleashed/fragmentcodeapp/Fragment1Activity.java
+ com.androidunleashed.fragmentcodeapp.Fragment1Activity
+ com.androidunleashed.fragmentcodeapp.Fragment1Activity$1
+com/androidunleashed/fragmentcodeapp/FragmentCodeAppActivity.java
+ com.androidunleashed.fragmentcodeapp.FragmentCodeAppActivity
